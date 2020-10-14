@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scence/StartGame.unity
+    guid: 61a231063beab874ba4f62a5dc0f02a8
+  - enabled: 1
+    path: Assets/Scence/easy01.unity
+    guid: cd09616e64f4aad4eab3bf4c22f7f32d
+  - enabled: 1
+    path: Assets/Scence/easy02.unity
+    guid: 452614f2cbc30284a8c049997eeca6fa
+  - enabled: 1
+    path: Assets/Scence/easy03.unity
+    guid: 31a50eaad8c17ab4da293aa2be1e5a39
+  - enabled: 1
+    path: Assets/Scence/easy04.unity
+    guid: 1c0c3633595dbc54cac983c4a82b0618
+  - enabled: 1
+    path: Assets/Scence/easy05.unity
+    guid: 3581c93233751cd4dad260693372d651
+  - enabled: 1
+    path: Assets/Scence/easy06.unity
+    guid: aae362b2132732542b7cf7517faaa72a
+  - enabled: 1
+    path: Assets/Scence/easy07.unity
+    guid: 9c696390e38d3f84e9be7deede074213
+  - enabled: 1
+    path: Assets/Scence/easy08.unity
+    guid: faf263b1eed4cda4289f38954e58e124
+  - enabled: 1
+    path: Assets/Scence/easy09.unity
+    guid: c766e404065770c469e324a2f8cb9850
+  - enabled: 1
+    path: Assets/Scence/easy10.unity
+    guid: f852d904ea2d6e445803705e3f02d22e
+  - enabled: 1
+    path: Assets/Scence/easy11.unity
+    guid: f8c5aa6154a696e4198a7535fd2b565e
+  - enabled: 1
+    path: Assets/Scence/easy12.unity
+    guid: bc4a0c41ef9ade0448219edb25b0102a
+  - enabled: 1
+    path: Assets/Scence/easy13.unity
+    guid: 97198c05f3ec1eb4789b245875824b9c
+  - enabled: 1
+    path: Assets/Scence/easy14.unity
+    guid: efcb0980930254b4992b92ef2deb90eb
+  - enabled: 1
+    path: Assets/Scence/easy15.unity
+    guid: 4cc5b779edbd1964581cb2c7f585afbb
+  - enabled: 1
+    path: Assets/Scence/easy16.unity
+    guid: 19cdde54c00a42b4191c145cdc8d7ccf
+  - enabled: 1
+    path: Assets/Scence/easy17.unity
+    guid: 63b20e01f28525e4bbb184bf09b76649
+  - enabled: 1
+    path: Assets/Scence/easy18.unity
+    guid: 5cfc81acf5eb58b4c8ae757bebdcf9d2
+  - enabled: 1
+    path: Assets/Scence/easy19.unity
+    guid: 758b1553632bd924588d0c0831e64ce7
+  - enabled: 1
+    path: Assets/Scence/EASY20.unity
+    guid: b7acf8391621a254ea9a3e8087ae7bd8
+  - enabled: 1
+    path: Assets/Scence/normal01.unity
+    guid: 0366abc61943e7045a700f8b76cb2c38
+  - enabled: 1
+    path: Assets/Scence/normal02.unity
+    guid: b345a09feb0b7a64b8c64891b5f3f8fc
+  - enabled: 1
+    path: Assets/Scence/normal03.unity
+    guid: 94fccae27a71b064089df8bd9d44b21b
+  - enabled: 1
+    path: Assets/Scence/normal04.unity
+    guid: c96e8c99a1a4e0b4d82a39c36adb1ea1
+  - enabled: 1
+    path: Assets/Scence/normal05.unity
+    guid: 3000b178026636c4f86054d3dfcda973
+  - enabled: 1
+    path: Assets/Scence/normal06.unity
+    guid: 2f3f39c154797a74fbdab7749c64c362
+  - enabled: 1
+    path: Assets/Scence/normal07.unity
+    guid: 00f713220327a9d42844fc1a82d6490e
+  - enabled: 1
+    path: Assets/Scence/normal08.unity
+    guid: e249668f464465c40b1de4b56addc586
+  - enabled: 1
+    path: Assets/Scence/normal09.unity
+    guid: 8200f5cfc8f2cde479803e72daeba741
+  - enabled: 1
+    path: Assets/Scence/normal10.unity
+    guid: 3bd8497f644bdb743a5688ce97f84d54
+  - enabled: 1
+    path: Assets/Scence/normal11.unity
+    guid: f1d8873969d1786408db8bafbb15e164
+  - enabled: 1
+    path: Assets/Scence/normal12.unity
+    guid: e92bd7b4d8736684c87a0aa9ea8a48c3
+  - enabled: 1
+    path: Assets/Scence/normal13.unity
+    guid: fb7f8a8aeed32e844b33debbddbd1702
+  - enabled: 1
+    path: Assets/Scence/normal14.unity
+    guid: 4a17f7a1abebbbf45bad54f6360eee14
+  - enabled: 1
+    path: Assets/Scence/normal15.unity
+    guid: 4058bdc7b85165547981ed9d3460640c
+  - enabled: 1
+    path: Assets/Scence/normal16.unity
+    guid: 00ac1ddf2f72aeb4c8cec6127d18094c
+  - enabled: 1
+    path: Assets/Scence/NORMAL17.unity
+    guid: 0445891a72154aa41a17c6dd677c8730
+  - enabled: 1
+    path: Assets/Scence/NORMAL18.unity
+    guid: a26890e9f60027d418c37ceaea6cbd91
+  - enabled: 1
+    path: Assets/Scence/NORMAL19.unity
+    guid: 9f7261be0e165df469b9cf9e0fa55e20
+  - enabled: 1
+    path: Assets/Scence/normal20.unity
+    guid: f75efd5f6d94815439859875f4dc5459
+  m_configObjects: {}
